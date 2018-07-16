@@ -1,0 +1,10 @@
+﻿  ProtoCompile.cmd : Create proto temp directory "D:\Caffee\caffe-faster-rcnnDXY\windows\..\src\caffe\proto\temp"
+  ProtoCompile.cmd : Generating "D:\Caffee\caffe-faster-rcnnDXY\windows\..\src\caffe\proto\temp\caffe.pb.h" and "D:\Caffee\caffe-faster-rcnnDXY\windows\..\src\caffe\proto\temp\caffe.pb.cc"
+  ProtoCompile.cmd : Create proto include directory
+  ProtoCompile.cmd : Compare newly compiled caffe.pb.h with existing one
+  FC: 无法打开 D:\CAFFEE\CAFFE-FASTER-RCNNDXY\WINDOWS\..\INCLUDE\CAFFE\PROTO\CAFFE.PB.H - 找不到此类文件或文件夹
+  
+  ProtoCompile.cmd : Move newly generated caffe.pb.h to "D:\Caffee\caffe-faster-rcnnDXY\windows\..\include\caffe\proto\caffe.pb.h"
+  ProtoCompile.cmd : and caffe.pb.cc to "D:\Caffee\caffe-faster-rcnnDXY\windows\..\src\caffe\proto\caffe.pb.cc"
+  移动了         1 个文件。
+  移动了         1 个文件。
